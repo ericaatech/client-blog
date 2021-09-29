@@ -1,0 +1,15 @@
+footer { 
+        background-color:#38B6FF; 
+        padding: 20px;
+        text-align: center;
+        }
+p {
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+   }
+.image {
+        width:  550px;
+        height: 350px;
+        image-orientation: center;
+    }
